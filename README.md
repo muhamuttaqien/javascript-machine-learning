@@ -1,5 +1,5 @@
 # javascript-machine-learning
-Machine Learning with JavaScript using two popular algorithms including linear-regression and k-nearest neighbor.
+Machine Learning with JavaScript using two popular algorithms for classification and regression problems including linear-regression and k-nearest neighbor.
 
 I'm done with these steps:
 
